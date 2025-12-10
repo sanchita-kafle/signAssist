@@ -1,0 +1,8 @@
+{
+  "name": "SignAssist",
+  "description": "An AI-powered American Sign Language tutor that generates video demonstrations and describes hand shapes and movements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
